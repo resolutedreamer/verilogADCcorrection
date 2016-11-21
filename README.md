@@ -3,7 +3,7 @@ verilogADCcorrection
 A Verilog design for an ADC Non-linearity Correction Engine
 
 #### Screenshot
-![screenshot](graphics/ss1.PNG)
+![screenshot](assets/screenshots/ss1.PNG)
 
 ## Getting Started
 
@@ -28,4 +28,4 @@ A Verilog design for an ADC Non-linearity Correction Engine
 #### Anthony Nguyen
 * Homepage: www.resolutedreamer.com
 
-Last Updated 12/04/2015
+Last Updated 2015/12/04
